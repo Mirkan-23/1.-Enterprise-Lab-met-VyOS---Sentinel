@@ -1,0 +1,9 @@
+# Webserver VM geïnstalleerd
+# DMZ NIC aan Webserver VM toegevoegd
+# SSH Pubkey authenticatie geconfigureerd
+# Nginx geïnstalleerd
+# Kleine firewall configuratie voor bereikbaarheid:
+
+firewall-cmd --permanent --zone=public --add-service=http
+firewall-cmd --permanent --zone=public --add-service=https
+firewall-cmd --reloadS
