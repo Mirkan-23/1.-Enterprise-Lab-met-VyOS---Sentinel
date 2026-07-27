@@ -1,0 +1,4 @@
+# Applicatie VM geïnstalleerd
+# DMZ NIC aan Applicatie VM toegevoegd
+# SSH Pubkey authenticatie geconfigureerd
+# IP-adres conflict opgelost
