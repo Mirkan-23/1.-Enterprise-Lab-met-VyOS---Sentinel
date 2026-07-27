@@ -1,0 +1,3 @@
+# Management VM geïnstalleerd
+# Management NIC aan Applicatie VM toegevoegd
+# SSH Pubkey authenticatie geconfigureerd
