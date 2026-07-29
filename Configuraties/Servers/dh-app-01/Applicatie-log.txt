@@ -1,4 +1,9 @@
-# Applicatie VM geïnstalleerd
-# DMZ NIC aan Applicatie VM toegevoegd
-# SSH Pubkey authenticatie geconfigureerd
-# IP-adres conflict opgelost
+27-7-2026: Applicatie VM geïnstalleerd
+27-7-2026: DMZ NIC aan Applicatie VM toegevoegd
+27-7-2026: SSH Pubkey authenticatie geconfigureerd
+27-7-2026: IP-adres conflict opgelost
+
+29-7-2026: Samba fileshare ingericht op DH-APP-01
+29-7-2026: /srv/samba/share_1 share aangemaakt en rechten geconfigureerd
+29-7-2026: Lokale Samba gebruiker/groep toegangsbeheer ingericht
+29-7-2026: SMB verbinding vanaf client getest
