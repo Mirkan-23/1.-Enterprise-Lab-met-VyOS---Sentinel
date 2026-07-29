@@ -1,4 +1,4 @@
--- Installatie
+# Installatie
 
 1. Samba pakket installeren (Op Rocky 9: dnf install samba)
 2. smb.conf plaatsen in /etc/samba/
