@@ -6,4 +6,4 @@
 
 firewall-cmd --permanent --zone=public --add-service=http
 firewall-cmd --permanent --zone=public --add-service=https
-firewall-cmd --reloadS
+firewall-cmd --reload
