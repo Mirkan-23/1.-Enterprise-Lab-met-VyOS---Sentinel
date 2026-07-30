@@ -1,0 +1,6 @@
+30-7-2026: Firewall zone policies ingericht op DH-EDGE-01
+30-7-2026: MGMT → DMZ en MGMT → LAN getest
+30-7-2026: MGMT → WAN geblokkeerd getest
+30-7-2026: LAN → DMZ toegestaan getest
+30-7-2026: LAN → MGMT geblokkeerd getest
+30-7-2026: MGMT subnetmask aangepast van /16 naar /24
