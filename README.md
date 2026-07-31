@@ -56,3 +56,10 @@ Middels deze project oefen ik praktische vaardigheden op het gebied van:
 - Configuratiebeheer en Git
 
 Het project wordt telkens uitgebreid en gedocumenteerd, ook te zien aan de Git commit geschiedenis binnen deze repository.
+
+
+## Eindbewijs
+
+Het volledige eindbewijs van dit project is beschikbaar via:
+1. Voorpagina van dit repository onder de naam: "Enterprise Lab met VyOS - Eindbewijs", het is een .pdf bestand.
+2. Via: https://github.com/Mirkan-23/1.-Enterprise-Lab-met-VyOS---Sentinel/blob/main/Enterprise%20Lab%20met%20VyOS%20-%20Eindbewijs.pdf
